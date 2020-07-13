@@ -1,17 +1,26 @@
+- [spatter-tracking](#spatter-tracking)
+  * [Description](#description)
+    + [Méthodes classiques](#m-thodes-classiques)
+    + [Deep Learning](#deep-learning)
+  * [Références](#r-f-rences)
+    + [Tracking d'éjectas](#tracking-d--jectas)
+      - [Neural network based image segmentation for spatter extraction during laser-based powder bed fusion processing](#neural-network-based-image-segmentation-for-spatter-extraction-during-laser-based-powder-bed-fusion-processing)
+        * [Lien](#lien)
+        * [Résumé](#r-sum-)
+      - [A deep learning-based model for defect detection in laser-powder bed fusion using in-situ thermographic monitoring](#a-deep-learning-based-model-for-defect-detection-in-laser-powder-bed-fusion-using-in-situ-thermographic-monitoring)
+        * [Lien](#lien-1)
+        * [Résumé](#r-sum--1)
+    + [Analyse granulométrique](#analyse-granulom-trique)
+      - [Image-based size analysis of agglomerated and partially sintered particles via convolutional neural networks](#image-based-size-analysis-of-agglomerated-and-partially-sintered-particles-via-convolutional-neural-networks)
+        * [Lien](#lien-2)
+        * [Résumé](#r-sum--2)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+![Spatter detection](https://ars.els-cdn.com/content/image/1-s2.0-S0030399220309804-gr5.jpg "Spatter examples")
+
+
 # spatter-tracking
-
-- [Description](##Description)
-  * [Méthodes classiques](###Méthodes%classiques)
-  * [Deep Learning](###Deep%Learning)
-- [Références](##Références)
-  * [Tracking d'éjectas](###Tracking%d'éjectas)
-    + [Segmentation pour lit de poudre](####Neural%network%based%image%segmentation%for%spatter%extraction%during%laser-based%powder%bed%fusion%processing)
-    + [Segmentation pour lit de poudre](####A%deep%learning-based%model%for%defect%detection%in%laser-powder%bed%fusion%using%in-situ%thermographic%monitoring)
-  * [Analyse granulomatrique](###Analyse%granulométrique)
-    + [Analyse par deep learning](#sub-sub-heading-1)   
-
-
-
 
 ## Description 
 
