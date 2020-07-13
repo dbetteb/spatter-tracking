@@ -29,7 +29,7 @@
 Ce site comprend un état de l'art des techniques de deep learning appliquées au tracking d'éjectas en fabrication additive par lit de poudre ainsi
 que l'application de techniques de deep learning à l'analyse granulométrique des poudres.
 
-### Méthodes classiques {#m-thodes-classiques}
+### Méthodes classiques {###m-thodes-classiques}
 
 ImageJ est souvent utilisé dans le monde des matériaux comme outil d'analyse d'images. Néanmoins, ImageJ (et les autres logiciels commerciaux) embarquent rarement
 des fonctionnalités de deep learning car celles-ci sont rarement généralistes et difficilement réglables. Néanmoins, dans beaucoup de situations l'utilisation de technique de deep learning semblent permettre de gagner en performance par rapport à des techniques de traitement d'images plus bas niveau.
