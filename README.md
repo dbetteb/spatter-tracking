@@ -28,7 +28,7 @@ Un système de détection et de surveillance in situ des éjectas est souvent ut
 
 ### A deep learning-based model for defect detection in laser-powder bed fusion using in-situ thermographic monitoring
 
-
+![Detection de defaut](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs40964-019-00108-3/MediaObjects/40964_2019_108_Fig1_HTML.png?as=webp)
 
 #### Lien
 
@@ -38,4 +38,5 @@ A deep learning-based model for defect detection in laser-powder bed fusion usin
 
 #### Résumé 
 La fabrication additive de composants métalliques par fusion laser en lit de poudre est un processus très complexe, car la poudre doit être fondue et refroidie dans chaque couche pour produire une partie de la pièce. De nombreux paramètres influencent le processus d'impression ; cependant, les défauts résultant d'un réglage sous-optimal des paramètres sont généralement détectés après le processus. Pour détecter ces défauts pendant l'impression, différentes techniques de surveillance du processus, telles que la surveillance du bassin de fusion ou la surveillance infrarouge hors axe, ont été proposées. Dans ce travail, nous avons utilisé une combinaison d'imagerie thermographique hors axe comme source de données et d'architectures de réseau neuronal basées sur l'apprentissage profond, pour détecter les défauts d'impression. Pour la formation au réseau, une validation croisée avec k-plis et une validation croisée avec hold-out ont été utilisées. Grâce à ces techniques, des défauts tels que le délaminage et les éjectas peuvent être reconnus avec une précision de 96,80 %. En outre, le modèle a été évalué à l'aide de l'évaluation de la densité de calcul par couche. L'architecture est très petite et a de faibles coûts de calcul, ce qui signifie qu'elle est adaptée pour fonctionner en temps réel même sur du hardware peu puissant.
+
 
