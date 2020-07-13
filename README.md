@@ -1,4 +1,4 @@
-![Spatter detection](vgWjAg.gif "Spatter examples")
+![Spatter detection](spatter.gif "Spatter examples")
 
 
 - [spatter-tracking](#spatter-tracking)
