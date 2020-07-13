@@ -1,3 +1,6 @@
+![Spatter detection](www.gifs.com/gif/vgWjAg "Spatter examples")
+
+
 - [spatter-tracking](#spatter-tracking)
   * [Description](#description)
     + [Méthodes classiques](#m-thodes-classiques)
@@ -17,7 +20,6 @@
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-![Spatter detection](https://ars.els-cdn.com/content/image/1-s2.0-S0030399220309804-gr5.jpg "Spatter examples")
 
 
 # spatter-tracking
