@@ -3,17 +3,17 @@
 
 - [spatter-tracking](#spatter-tracking)
   * [Description](#description)
-    + [Méthodes classiques](#m-thodes-classiques)
+    + [Méthodes classiques](#methodes-classiques)
     + [Deep Learning](#deep-learning)
-  * [Références](#r-f-rences)
-    + [Tracking d'éjectas](#tracking-d--jectas)
+  * [Articles](#articles)
+    + [Tracking d'éjectas](#tracking-d-ejectas)
       - [Neural network based image segmentation for spatter extraction during laser-based powder bed fusion processing](#neural-network-based-image-segmentation-for-spatter-extraction-during-laser-based-powder-bed-fusion-processing)
         * [Lien](#lien)
         * [Résumé](#r-sum-)
       - [A deep learning-based model for defect detection in laser-powder bed fusion using in-situ thermographic monitoring](#a-deep-learning-based-model-for-defect-detection-in-laser-powder-bed-fusion-using-in-situ-thermographic-monitoring)
         * [Lien](#lien-1)
         * [Résumé](#r-sum--1)
-    + [Analyse granulométrique](#analyse-granulom-trique)
+    + [Analyse granulométrique](#analyse-granulometrique)
       - [Image-based size analysis of agglomerated and partially sintered particles via convolutional neural networks](#image-based-size-analysis-of-agglomerated-and-partially-sintered-particles-via-convolutional-neural-networks)
         * [Lien](#lien-2)
         * [Résumé](#r-sum--2)
@@ -29,7 +29,7 @@
 Ce site comprend un état de l'art des techniques de deep learning appliquées au tracking d'éjectas en fabrication additive par lit de poudre ainsi
 que l'application de techniques de deep learning à l'analyse granulométrique des poudres.
 
-### Méthodes classiques {###m-thodes-classiques}
+### Methodes classiques 
 
 ImageJ est souvent utilisé dans le monde des matériaux comme outil d'analyse d'images. Néanmoins, ImageJ (et les autres logiciels commerciaux) embarquent rarement
 des fonctionnalités de deep learning car celles-ci sont rarement généralistes et difficilement réglables. Néanmoins, dans beaucoup de situations l'utilisation de technique de deep learning semblent permettre de gagner en performance par rapport à des techniques de traitement d'images plus bas niveau.
@@ -43,9 +43,9 @@ des fonctionnalités de deep learning car celles-ci sont rarement généralistes
 [DeepImageJ](https://deepimagej.github.io/deepimagej/index.html) montre quelques applications récente de deep learning sur du traitement d'image issue des sciences des matériaux et des sciences de la vie.
 
 
-## Références
+## Articles
 
-### Tracking d'éjectas
+### Tracking d'ejectas
 
 #### Neural network based image segmentation for spatter extraction during laser-based powder bed fusion processing
 
@@ -80,7 +80,7 @@ A deep learning-based model for defect detection in laser-powder bed fusion usin
 ##### Résumé 
 La fabrication additive de composants métalliques par fusion laser en lit de poudre est un processus très complexe, car la poudre doit être fondue et refroidie dans chaque couche pour produire une partie de la pièce. De nombreux paramètres influencent le processus d'impression ; cependant, les défauts résultant d'un réglage sous-optimal des paramètres sont généralement détectés après le processus. Pour détecter ces défauts pendant l'impression, différentes techniques de surveillance du processus, telles que la surveillance du bassin de fusion ou la surveillance infrarouge hors axe, ont été proposées. Dans ce travail, nous avons utilisé une combinaison d'imagerie thermographique hors axe comme source de données et d'architectures de réseau neuronal basées sur l'apprentissage profond, pour détecter les défauts d'impression. Pour la formation au réseau, une validation croisée avec k-plis et une validation croisée avec hold-out ont été utilisées. Grâce à ces techniques, des défauts tels que le délaminage et les éjectas peuvent être reconnus avec une précision de 96,80 %. En outre, le modèle a été évalué à l'aide de l'évaluation de la densité de calcul par couche. L'architecture est très petite et a de faibles coûts de calcul, ce qui signifie qu'elle est adaptée pour fonctionner en temps réel même sur du hardware peu puissant.
 
-### Analyse granulométrique
+### Analyse granulometrique
 
 #### Image-based size analysis of agglomerated and partially sintered particles via convolutional neural networks
 
