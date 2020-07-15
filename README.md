@@ -68,7 +68,6 @@ https://doi.org/10.1016/j.addma.2020.101438](https://www.sciencedirect.com/scien
 
 En fabrication additives par fusion laser sur lit de poudre (LPBF), les éjectas provoquent la formation de défauts, la redistribution non-uniforme de la poudre et la contamination du processus. Il est essentiel de distinguer les différents types d'éjectas et de comprendre leurs caractéristiques et leurs mécanismes de formation. Ce travail révèle les caractéristiques et les mécanismes de formation de cinq types uniques d'éjectas au cours du processus de LPBF par imagerie radiographique in situ à haute vitesse et haute énergie. Les éjectas observés pendant le test LPBF sont quantifiés par leur vitesse, leur taille et leur direction. Des caractéristiques quantifiables distinctes pour chaque type d'éjectas sont identifiées. Les effets de la puissance du laser, de la vitesse de balayage et de la pression ambiante sur la formation et les caractéristiques des éjectas sont mis en évidence. Une carte de formation des éjectas pour l'alliage AlSi10Mg est établie.
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
 
 ### Detection d'ejectas (deep learning)
 
