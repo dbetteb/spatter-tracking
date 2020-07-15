@@ -37,7 +37,7 @@ que l'application de techniques de deep learning à l'analyse granulométrique d
 [ImageJ](https://fr.wikipedia.org/wiki/ImageJ) (_Image Analysis in Java_) est souvent utilisé dans le monde des matériaux comme outil d'analyse d'images. Néanmoins, ImageJ (et les autres logiciels commerciaux) embarquent rarement
 des fonctionnalités de deep learning car celles-ci sont rarement généralistes et difficilement réglables. Néanmoins, dans beaucoup de situations l'utilisation de technique de deep learning semblent permettre de gagner en performance par rapport à des techniques de traitement d'images plus bas niveau.
 
-![Example](https://i.ytimg.com/vi/2vHUbuGyoC0/maxresdefault.jpg)
+![Example](https://www.fzu.cz/~dominecf/granulo/img/particles_found.png)
 
 
 
