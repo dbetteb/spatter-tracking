@@ -1,26 +1,27 @@
 ![Spatter detection](spatter.gif "Spatter examples")
 
-
 - [spatter-tracking](#spatter-tracking)
   * [Description](#description)
-    + [Méthodes classiques](#methodes-classiques)
+    + [Methodes classiques](#methodes-classiques)
     + [Deep Learning](#deep-learning)
   * [Articles](#articles)
-    + [Détection d'éjectas (computer vision)](#detection-d-ejectas--computer-vision-)
+    + [Detection d'ejectas (computer vision)](#detection-d-ejectas--computer-vision-)
       - [Types of spatter and their features and formation mechanisms in laser powder bed fusion additive manufacturing process](#types-of-spatter-and-their-features-and-formation-mechanisms-in-laser-powder-bed-fusion-additive-manufacturing-process)
         * [Lien](#lien)
-        * [Résumé](#resume)
-    + [Détection d'éjectas (deep learning)](#detection-d-ejectas--deep-learning-)
+        * [Resume](#resume)
+    + [Detection d'ejectas (deep learning)](#detection-d-ejectas--deep-learning-)
+      - [A novel spatter detection algorithm based on typical cellular neural network operations for laser beam welding processes](#a-novel-spatter-detection-algorithm-based-on-typical-cellular-neural-network-operations-for-laser-beam-welding-processes)
+        * [Resume](#resume-1)
       - [Neural network based image segmentation for spatter extraction during laser-based powder bed fusion processing](#neural-network-based-image-segmentation-for-spatter-extraction-during-laser-based-powder-bed-fusion-processing)
         * [Lien](#lien-1)
-        * [Résumé](#resume-1)
+        * [Resume](#resume-2)
       - [A deep learning-based model for defect detection in laser-powder bed fusion using in-situ thermographic monitoring](#a-deep-learning-based-model-for-defect-detection-in-laser-powder-bed-fusion-using-in-situ-thermographic-monitoring)
         * [Lien](#lien-2)
-        * [Résumé](#resume-2)
-    + [Analyse granulométrique](#analyse-granulometrique)
+        * [Resume](#resume-3)
+    + [Analyse granulometrique](#analyse-granulometrique)
       - [Image-based size analysis of agglomerated and partially sintered particles via convolutional neural networks](#image-based-size-analysis-of-agglomerated-and-partially-sintered-particles-via-convolutional-neural-networks)
         * [Lien](#lien-3)
-        * [Résumé](#resume-3)
+        * [Resume](#resume-4)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
@@ -68,10 +69,18 @@ https://doi.org/10.1016/j.addma.2020.101438](https://www.sciencedirect.com/scien
 
 ##### Resume
 
-En fabrication additives par fusion laser sur lit de poudre (LPBF), les éjectas provoquent la formation de défauts, la redistribution non-uniforme de la poudre et la contamination du processus. Il est essentiel de distinguer les différents types d'éjectas et de comprendre leurs caractéristiques et leurs mécanismes de formation. Ce travail révèle les caractéristiques et les mécanismes de formation de cinq types uniques d'éjectas au cours du processus de LPBF par imagerie radiographique in situ à haute vitesse et haute énergie. Les éjectas observés pendant le test LPBF sont quantifiés par leur vitesse, leur taille et leur direction. Des caractéristiques quantifiables distinctes pour chaque type d'éjectas sont identifiées. Les effets de la puissance du laser, de la vitesse de balayage et de la pression ambiante sur la formation et les caractéristiques des éjectas sont mis en évidence. Une carte de formation des éjectas pour l'alliage AlSi10Mg est établie.
+En fabrication additive par fusion laser sur lit de poudre (LPBF), les éjectas provoquent la formation de défauts, la redistribution non-uniforme de la poudre et la contamination du processus. Il est essentiel de distinguer les différents types d'éjectas et de comprendre leurs caractéristiques et leurs mécanismes de formation. Ce travail révèle les caractéristiques et les mécanismes de formation de cinq types uniques d'éjectas au cours du processus de LPBF par imagerie radiographique in situ à haute vitesse et haute énergie. Les éjectas observés pendant le test LPBF sont quantifiés par leur vitesse, leur taille et leur direction. Des caractéristiques quantifiables distinctes pour chaque type d'éjectas sont identifiées. Les effets de la puissance du laser, de la vitesse de balayage et de la pression ambiante sur la formation et les caractéristiques des éjectas sont mis en évidence. Une carte de formation des éjectas pour l'alliage AlSi10Mg est établie.
 
 
 ### Detection d'ejectas (deep learning)
+
+#### A novel spatter detection algorithm based on typical cellular neural network operations for laser beam welding processes
+
+![CNN for spatter detection](https://cdn.iopscience.com/images/0957-0233/23/1/015401/Full/mst405576fig04.jpg)
+
+##### Resume 
+
+La surveillance en temps réel du soudage par faisceau laser (LBW) a pris une importance croissante dans de nombreux procédés de fabrication allant de la production automobile à la mécanique de précision. Dans cette dernière, un nouvel algorithme de détection en temps réel des éjectas est mis en œuvre à l'aide une caméra et des réseaux neuronaux cellulaires. Cette dernière peut être connectée à des machines laser disponibles dans le commerce via leurs capteurs optiques, ce qui permet de surveiller en temps réel les procédés de soudage par faisceaux laser à des fréquences allant jusqu'à 15 kHz. Ces fréquences élevées permettent l'intégration d'autres tâches de surveillance telles que la détection du trou de pénétration complet pour le contrôle en temps réel des paramètres du processus.
 
 #### Neural network based image segmentation for spatter extraction during laser-based powder bed fusion processing
 
