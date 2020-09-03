@@ -110,6 +110,8 @@ La fabrication additive de composants métalliques par fusion laser en lit de po
 
 #### Image-based size analysis of agglomerated and partially sintered particles via convolutional neural networks
 
+![Analyse de poudre](https://ars.els-cdn.com/content/image/1-s2.0-S003259101930854X-ga1_lrg.jpg)
+
 ##### Lien
 
 [M. Frei, F.E. Kruis,
